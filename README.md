@@ -19,20 +19,19 @@ Techs that I've used at least once :
 <img src="https://camo.githubusercontent.com/6fbd505a68943f30072f54d3dd05813deb9e420105a17a576d9b193f2d4551da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c2053747564696f2d3543324439313f7374796c653d666c6174266c6f676f3d56697375616c53747564696f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&amp;logo=VisualStudio&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
-## 🙋‍♀Project
+## 👩‍🎓Project
 숭실대학교 융합특성화자유전공학부 신입생 멘토링(2021.02.19. ~ 2021.07.11.)
 - Python을 이용한 빅데이터 분석에 대해 후배들에게 멘토링을 진행.
 
-창의융합기술아카데미(사단법인 나눔과 기술)(2021.07.22. ~ 2021.07.24.)
-- 우수상
+창의융합기술아카데미(사단법인 나눔과 기술)(2021.07.22. ~ 2021.07.24.) 우수상
 
 숭실대학교 SG해커톤(2021.07.29. ~ 2021.07.31.)
 - 코로나 19 방명록 'Who is Where?' 웹페이지 
 
-숭실대학교 글로벌 적정기술 창의설계 프로젝트(2021.07.12. ~ 2021.08.13.)
-- 장려상
+숭실대학교 글로벌 적정기술 창의설계 프로젝트(2021.07.12. ~ 2021.08.13.) 장려상
 
-
+## 🙋‍♀Contact
+<a href="https://www.instagram.com/sians0209/">instagram</a>
 
 
 
