@@ -1,4 +1,8 @@
-### Hi there 👋
+#자기소개
+## My name is Siyeon.
+--
+My age is 21.
+My hobby is going Cafe.
 
 <!--
 **siyeonSon/siyeonSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
