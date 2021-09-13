@@ -21,17 +21,17 @@ Techs that I've used at least once :
 
 ## 👩‍🎓Project
 숭실대학교 융합특성화자유전공학부 신입생 멘토링(2021.02.19. ~ 2021.07.11.)
-- Python을 이용한 빅데이터 분석에 대해 후배들에게 멘토링을 진행.
-
+  - Python을 이용한 빅데이터 분석에 대해 후배들에게 멘토링을 진행.
+<br><br>
 창의융합기술아카데미(사단법인 나눔과 기술)(2021.07.22. ~ 2021.07.24.) 우수상
-
+<br><br>
 숭실대학교 SG해커톤(2021.07.29. ~ 2021.07.31.)
-- 코로나 19 방명록 'Who is Where?' 웹페이지 
-
+  - 코로나 19 방명록 'Who is Where?' 웹페이지 
+<br><br>
 숭실대학교 글로벌 적정기술 창의설계 프로젝트(2021.07.12. ~ 2021.08.13.) 장려상
 
 ## 🙋‍♀Contact
-<a href="https://www.instagram.com/sians0209/">instagram</a>
+<a href="https://www.instagram.com/sians0209/">@sians0209</a>
 
 
 
