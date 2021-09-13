@@ -1,8 +1,9 @@
-#자기소개
-## My name is Siyeon.
---
-My age is 21.
-My hobby is going Cafe.
+# 자기소개
+## 제 이름은 시연입니다.
+---
+제 나이는 21살 입니다.
+제 취미는 여행가기입니다.
+😀😀
 
 <!--
 **siyeonSon/siyeonSon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
