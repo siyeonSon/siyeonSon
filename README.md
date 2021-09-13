@@ -1,5 +1,5 @@
 # Hey there! My name is Siyeon 👋
-### Soongsil Univ. Software
+### 👩‍🎓Soongsil Univ. Software
 ---
 ## 👩‍💻Tech Stacks
 Techs that I've used at least once :
