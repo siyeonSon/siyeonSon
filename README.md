@@ -32,6 +32,3 @@ Techs that I've used at least once :
 
 ## 🙋‍♀Contact
 <a href="https://www.instagram.com/sians0209/">@sians0209</a>
-
-
-
