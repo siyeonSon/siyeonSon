@@ -34,4 +34,5 @@ Techs that I've used at least once :
   - 수도권 기숙사 거주 대학생 생활 맞춤 비대면 세탁 당일배송 서비스 APP
 
 ## 🙋‍♀Contact
-<a href="https://www.instagram.com/sians0209/">@sians0209</a>
+<a href="https://www.instagram.com/sians0209/">@sians0209</a> <br>
+<a href="https://blog.naver.com/siyeon0209">@시연</a>
