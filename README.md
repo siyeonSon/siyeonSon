@@ -29,6 +29,5 @@
 숭실대학교 제19회 사업계획서경진대회(2021.10.07.) 우수상
   - 수도권 기숙사 거주 대학생 생활 맞춤 비대면 세탁 당일배송 서비스 APP
 
-## 🙋‍♀Contact
-<a href="https://blog.naver.com/siyeon0209">@blog</a> <br>
-<a href="https://velog.io/@sians0209">@velog</a>
+## 📃Recording
+https://velog.io/@sians0209
