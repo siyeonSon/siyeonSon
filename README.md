@@ -30,4 +30,4 @@
   - 수도권 기숙사 거주 대학생 생활 맞춤 비대면 세탁 당일배송 서비스 APP
 
 ## 📃Recording
-https://velog.io/@sians0209
+<a href="https://velog.io/@sians0209">velog</a>
