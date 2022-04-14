@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> &nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> &nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"> &nbsp
 </p>
 
 ## 👩‍🔧Tool
