@@ -6,13 +6,7 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"> &nbsp
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"> &nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"> &nbsp
-</p>
 
-## 👩‍🔧Tool
-<p>
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6"> &nbsp
 </p>
 
 ## 👩‍🎓Project
