@@ -24,5 +24,23 @@
 - [Missul;GAN](https://github.com/MISSUL-GAN) - GAN 알고리즘을 활용한 작품 공유 커뮤니티 및 NFT 연동 서비스
 - [소스코드](https://github.com/MISSUL-GAN/GAN_Back)
 
-## 📃Recording
+확장성을 가진 채팅 서버 구축(2022 SSU DevCamp, 2022.08. ~ 2022.09.)
+- AWS 서버 배포, CI/CD 파이프라인 구축, 로드 밸런싱
+- [소스코드](https://github.com/Soongsil-Developers/22sdc-1st-extendable-chatting-be)
+
+온도에 따른 나의 옷차림 기록 및 리마인드 안드로이드 어플리케이션(2022.10. ~ 2022.12.)
+- 기록 생성/조회/수정/삭제/검색 API 개발
+- [날씨옷장](https://github.com/OpenSource22-2)
+- [소스코드](https://github.com/OpenSource22-2/WeatherCloset-Server)
+
+뉴욕 심야 버스 정류장 설정 및 요금 예측(2022.11. ~ 2022.12.)
+- R Hadoop 환경에서 뉴욕 택시 데이터를 활용하여 K-means clustering으로 정류장을 선정하고, Linear Regression으로 요금을 예측
+- [소스코드](https://github.com/siyeonSon/NYC-Taxi)
+
+실시간 재난/교통 정보 모아보기 서비스(2022.11. ~ 2022.12.)
+- [삐용삐용](https://github.com/bbiyongbbiyong)
+- [소스코드](https://github.com/bbiyongbbiyong/bbiyong-server)
+
+
+## 📃Blog
 <a href="https://velog.io/@sians0209"><img src="https://img.shields.io/badge/velog-%20C997.svg?style=for-the-social&logo=velog&logoColor=white&link=https://velog.io/@sians0209"/></a>
