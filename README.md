@@ -34,7 +34,7 @@
 - [소스코드](https://github.com/OpenSource22-2/WeatherCloset-Server)
 
 뉴욕 심야 버스 정류장 설정 및 요금 예측(2022.11. ~ 2022.12.)
-- R Hadoop 환경에서 뉴욕 택시 데이터를 활용하여 K-means clustering으로 정류장을 선정하고, Linear Regression으로 요금을 예측
+- R Hadoop 환경에서 K-means clustering으로 정류장을 선정하고, Linear Regression으로 요금을 예측함
 - [소스코드](https://github.com/siyeonSon/NYC-Taxi)
 
 실시간 재난/교통 정보 모아보기 서비스(2022.11. ~ 2022.12.)
