@@ -1,46 +1,23 @@
-# Hey there! My name is Siyeon 👋
-### 👩‍🎓Soongsil Univ. Software
+# Hey there! My name is Siyeon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### 👩‍🎓 Soongsil Univ. Software
+
 ---
-## 👩‍💻Tech Stacks
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-social&logo=python&logoColor=ffdd54"> &nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-social&logo=java&logoColor=white"> &nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-social&logo=Spring&logoColor=white"> &nbsp
 
-</p>
+## 💁‍♀️ Project
+| Project | Description | Framework | ETC |
+| :---: | :---: | :--: | :--: |
+| [Street Drop](https://github.com/depromeet/street-drop-server) | 사용자 위치 기반 음악 공유 소셜 서비스 | Spring Boot | [디프만 13기](https://github.com/depromeet) |
+| [삐용삐용](https://github.com/bbiyongbbiyong/bbiyong-server) | 실시간 재난/교통 정보 모아보기 서비스 | Spring Boot | |
+| [Going](https://github.com/going-hackathon/going-server) | 지도로 여행 일정을 기록하고 나누는 소셜 서비스 | Spring Boot | SW중심대학 공동해커톤(2023) |
+| [딥러닝 분석](https://github.com/siyeonSon/hotel-review-sentiment-analysis) | 호텔 리뷰 데이터를 활용한 감정 분석 및 자연어 생성 | Tensorflow | |
+| [빅데이터 분석](https://github.com/siyeonSon/wind-dust-analysis) | 풍향에 따른 미세먼지 농도 비교 | Pandas | |
+| [홍길동](https://github.com/hong-road-dong/hong-road-dong-back) | 블랙박스를 활용한 도로 위 난폭운전 공유 서비스 | Spring Boot | |
+| [NYC-Taxi](https://github.com/siyeonSon/NYC-Taxi) | 뉴욕 심야 버스 정류장 설정 및 요금 예측 | HDFS | |
+| [날씨옷장](https://github.com/OpenSource22-2/WeatherCloset-Server) | 온도에 따른 나의 옷차림 기록 안드로이드 애플리케이션 | Spring Boot | |
+| [채팅서버](https://github.com/Soongsil-Developers/22sdc-1st-extendable-chatting-be) | 확장성을 가진 채팅 서버 구축 | Spring Boot | [SSU DevCamp(2022)](https://github.com/Soongsil-Developers) |
+| [Missul;GAN](https://github.com/MISSUL-GAN/GAN_Back) | GAN을 활용한 작품 공유 커뮤니티 및 NFT 연동 서비스 | Spring Boot | 숭실대학교 소프트웨어학부 소프트웨어공모전(2022) 총장상 |
 
-## 👩‍🎓Project
-숭실대학교 융합특성화자유전공학부 신입생 멘토링(2021.02.19. ~ 2021.07.11.)
-- Python을 이용한 빅데이터 분석에 대해 후배들에게 멘토링을 진행.
+---
 
-사단법인 나눔과 기술 창의융합기술아카데미(2021.07.22. ~ 2021.07.24.) 우수상
-
-숭실대학교 글로벌 적정기술 창의설계 프로젝트(2021.07.12. ~ 2021.08.13.) 장려상
-
-숭실대학교 제19회 사업계획서경진대회(2021.10.07.) 우수상
-- 수도권 기숙사 거주 대학생 생활 맞춤 비대면 세탁 당일배송 서비스 APP
-
-숭실대학교 소프트웨어학부 소프트웨어공모전(2022.07.10. ~ 2022.09.05.) 총장상
-- [Missul;GAN](https://github.com/MISSUL-GAN) - GAN 알고리즘을 활용한 작품 공유 커뮤니티 및 NFT 연동 서비스
-- [소스코드](https://github.com/MISSUL-GAN/GAN_Back)
-
-확장성을 가진 채팅 서버 구축(2022 SSU DevCamp, 2022.08. ~ 2022.09.)
-- AWS 서버 배포, CI/CD 파이프라인 구축, 로드 밸런싱
-- [소스코드](https://github.com/Soongsil-Developers/22sdc-1st-extendable-chatting-be)
-
-온도에 따른 나의 옷차림 기록 및 리마인드 안드로이드 어플리케이션(2022.10. ~ 2022.12.)
-- 기록 생성/조회/수정/삭제/검색 API 개발
-- [날씨옷장](https://github.com/OpenSource22-2)
-- [소스코드](https://github.com/OpenSource22-2/WeatherCloset-Server)
-
-뉴욕 심야 버스 정류장 설정 및 요금 예측(2022.11. ~ 2022.12.)
-- R Hadoop 환경에서 K-means clustering으로 정류장을 선정하고, Linear Regression으로 요금을 예측함
-- [소스코드](https://github.com/siyeonSon/NYC-Taxi)
-
-실시간 재난/교통 정보 모아보기 서비스(2022.11. ~ 2022.12.)
-- [삐용삐용](https://github.com/bbiyongbbiyong)
-- [소스코드](https://github.com/bbiyongbbiyong/bbiyong-server)
-
-
-## 📃Blog
-<a href="https://velog.io/@sians0209"><img src="https://img.shields.io/badge/velog-%20C997.svg?style=for-the-social&logo=velog&logoColor=white&link=https://velog.io/@sians0209"/></a>
+## 📃 More
+<a href="https://velog.io/@sians0209"><img src="https://img.shields.io/badge/Velog-%20C997.svg?style=for-the-social&logo=velog&logoColor=white&link=https://velog.io/@sians0209"/></a>  <a href="https://www.linkedin.com/in/siyeonson" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-social&logo=linkedin&logoColor=white"/></a>
